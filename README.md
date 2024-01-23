@@ -26,6 +26,10 @@ O objetivo deste projeto é analisar dados de vendas de notebooks para extrair i
 
 6. **Interpretação dos Resultados:** Finalmente, interpretamos os resultados obtidos, destacando descobertas significativas e conclusões estratégicas para orientar ações futuras.
 
+   ### Visualização de Dados
+   [Análise do dataset](https://giovanni1080p.github.io/Analise_pre-os_notebook/)
+
+
    
 ## Referência
 
